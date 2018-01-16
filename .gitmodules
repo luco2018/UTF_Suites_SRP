@@ -1,0 +1,6 @@
+[submodule "Assets/UTF_LWPipeline"]
+	path = Assets/UTF_LWPipeline
+	url = https://github.com/Unity-Technologies/UTF_Tests_LWPipeline.git
+[submodule "Assets/UTF_Core"]
+	path = Assets/UTF_Core
+	url = https://github.com/Unity-Technologies/UTF_Core.git
